@@ -1,0 +1,12 @@
+body {
+  font-family: 'Pacifico', cursive;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  border: 1px solid #0a3cda;
+  margin: 10px;
+}
